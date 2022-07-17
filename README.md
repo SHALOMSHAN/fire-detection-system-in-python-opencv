@@ -50,3 +50,11 @@ We want to convert the image to HSV because working with HSV values is much easi
   ```
     python fire-detector.py
   ```
+  
+  Social Media Links
+---
+
+* [Linkedin Profile](https://www.linkedin.com/in/shalomshan-selvakumar-423aaa1aa/)
+* [Facebook](https://www.facebook.com/selvakumar.shalomshan)
+* [Twitter Profile](https://mobile.twitter.com/SHALOMSHANS)
+* [Youtube Channel](https://www.youtube.com/channel/UCeQfTqz1hxhe_Lt37I2JLDg)
